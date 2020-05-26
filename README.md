@@ -1,5 +1,10 @@
 # python_test_benchmark_example
 
+## Introduction
+Need to install the pytest and pytest-benchmark first through the pip3.
+```bash
+pip3 install pytest pytest-benchmark
+```
 ## Usage
 In the folder leetcode_/
 ```bash
